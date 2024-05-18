@@ -1,3 +1,5 @@
+# Case Study #1 - Danny's Diner
+
 Danny's Diner Case Study 
 This case study explores how Danny, the owner of Danny's Diner, can leverage SQL to gain insights into his customer base and improve his business.
 
